@@ -25,6 +25,10 @@
 - Power Builder
 - Старая интеграционная шина на основе Apache Camel
 
+### RoadMap
+
+[Сссылка на дорожную карту] (https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-11/refs/heads/sprint_11/Exc3/RoadMap.drawio)
+
 ### Обоснование изменений
 
 - внедрение витрины данных для удобного построениея отчетов без длительного ожидания и доработке (что соответствует целям бизнеса)

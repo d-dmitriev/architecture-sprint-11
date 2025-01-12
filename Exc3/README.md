@@ -27,7 +27,7 @@
 
 ### RoadMap
 
-[Сссылка на дорожную карту] (https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-11/refs/heads/sprint_11/Exc3/RoadMap.drawio)
+[Сссылка на дорожную карту](https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-11/refs/heads/sprint_11/Exc3/RoadMap.drawio)
 
 ### Обоснование изменений
 

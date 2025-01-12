@@ -1,3 +1,9 @@
+### Архитектура системы
+
+[С4 containets diagram](https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-11/refs/heads/sprint_11/Exc1/%D1%814-container.drawio)
+
+[C4 components diagram](https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-11/refs/heads/sprint_11/Exc1/c4-components.drawio)
+
 ### Проблемные места
 
 - устаревшая версия сервера DWH на базе SQL Server 2008 (поддержка закончилась в 2019 году)
